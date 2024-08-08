@@ -1,12 +1,12 @@
 constant: BILLING_TABLE {
-  value: "ivory-vim-309221.billing_export_dataset.gcp_billing_export_resource_v1_018ADD_3CEBBB_A4DF22"
+  value: "justine-lags-pbl.all_billing_data.gcp_billing_export_resource_v1_019AEF_112CA9_C7B1FC"
 }
 constant: PRICING_TABLE {
-  value: "ivory-vim-309221.billing_export_dataset.cloud_pricing_export"
+  value: "justine-lags-pbl.all_billing_data.cloud_pricing_export"
 }
 constant: DATE {
-  value: "2023-05-01"
+  value: "2024-04-01"
 }
 constant: CONNECTION {
-  value: "billing-connection"
+  value: "ccm-connection"
 }
