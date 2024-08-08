@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img width="1005" alt="unnamed (1)" src="https://github.com/looker-open-source/google_cloud_focus/assets/25227290/b5be0a4b-cc2f-43fa-bbdb-9e2b64c22c8e">
 
 # Looker Template for FOCUS™ v1.0 GA
@@ -50,3 +51,6 @@ The LookML is written in BigQuery Standard SQL.
 - Temporary Tables: Unlike BigQuery Views, Looker utilizes temporary tables. The provided LookML code will create and manage these tables automatically, so you won't need to create them manually.
 - Data Validation: Always double-check your data in Looker to ensure it aligns with your expectations after making changes.
 
+=======
+# focusjustine
+>>>>>>> origin/main
